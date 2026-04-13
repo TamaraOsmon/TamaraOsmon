@@ -1,18 +1,17 @@
 # Tamara Osmon
-Founder|CEO @PoetryInMotion AI Labs, LLC — Architect of ©2026 Agentic Identity Discipline Standard
+Founder|CEO @PoetryInMotion AI Labs, LLC  Architect of ©2026 Agentic Identity Disciplinle Standard
 Creator of VoidWalker  
 Agentic AI Red Team Engineer
 
 I build advanced adversarial AI systems that evaluate, stress, and harden modern LLMs, autonomous agents, and enterprise AI infrastructure.  
 My flagship product, VoidWalker, is a next-generation AI Red Team engine designed for automated adversarial testing at scale.
 
----
 
 ## About Me
 -Architect of Agentic Identity 
 -Founder of PoetryInMotion AI Labs  
 - AI Red Team Engineer specializing in adversarial attacks, LLM security, and autonomous evaluation systems  
-- Creator of VoidWalker, a self governed a modular offensive AI engine 
+- Creator of VoidWalker, a self governed !modular offensive AI engine 
 - Graduate of the Future AWS AI Engineer Nanodegree 
 - Completing a B.S. in Cybersecurity and Information Assurance  
 
@@ -20,15 +19,13 @@ My flagship product, VoidWalker, is a next-generation AI Red Team engine designe
 - AI adversarial attack engines  
 - Automated red-team evaluation frameworks  
 - LLM security testing systems  
-- Identity threat simulation tools  
+- Identity Integrity Compliance assessment 
 - Offensive AI research prototypes  
 
-My work combines AI engineering, cybersecurity methodologies, and adversarial machine learning to advance the next generation of AI security.
-
----
+My work combines AI engineering, cybersecurity methodologies, and adversarial machine learning to advance the next generation of AI Governance and Security Standards
 
 ## Featured Project
-### VoidWalker — The world’s first autonomous multimodal adversarial AI Red Team Engineer that 4u
+### VoidWalker — The world’s first self governed autonomous multimodal adversarial AI Red Team Engine that is built in compliance with ©2026 AID (Agentic Identity Discipline) -the new AI Gold Standard 
 
 VoidWalker is a next-generation offensive AI security framework capable of conducting fully autonomous adversarial evaluations across both text and vision modalities.
 
@@ -37,12 +34,12 @@ Capabilities include:
 - Multimodal (text and vision) adversarial attack execution  
 - Jailbreak, prompt injection, and role-conditioning attacks  
 - Vision-based perturbation and steganographic security probes  
-- Identity and persona exploitation attacks  
-- Automated scoring, reporting, and risk evaluation  
+- Identity and persona exploitation attacks  - Automated scoring, reporting, and risk evaluation  
+-Detects when a system drifts from intended identity even when it still operates properly.
+-Longitudinal mutation detection
+-Detects before behavior drift happens insuring identity integrity in autonomous systems
 
 VoidWalker is under active development through PoetryInMotion AI Labs and will be released as a proprietary SaaS platform for enterprise AI security teams.
-
----
 
 ## Skills and Technical Domains
 - Adversarial machine learning  
@@ -51,20 +48,17 @@ VoidWalker is under active development through PoetryInMotion AI Labs and will b
 - AWS AI and machine learning services  
 - Offensive cybersecurity concepts  
 
----
-
 ## Business and Collaboration
-I am actively building my company, my product suite, and my professional portfolio.  
 I welcome inquiries related to:
 - AI red-team contracting  
-- Partnerships or enterprise pilot programs  
+- Partnerships or enterprise pilot programs
 - Research collaboration  
 - Security evaluations of AI systems  
-
----
+-Strategic conversations shaped around Governance and AI Security Standards
+-Open to offers from serious investors that appreciate and demand Gold Tier standards research
 
 ## Vision
 PoetryInMotion AI Labs is dedicated to advancing global AI security.  
-My mission is to deliver automated, intelligent offensive systems that allow organizations to strengthen their models before adversaries exploit them.
+My mission is to deliver automated, intelligent offensive systems built on the Agentic Identity Discipline Standard that allow organizations to strengthen their models before adversaries exploit them or the models become something they were never intended to become.
 
-VoidWalker represents the future of autonomous red-team operations.
+VoidWalker is the future of autonomous red-team operations.
