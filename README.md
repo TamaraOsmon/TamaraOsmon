@@ -9,13 +9,12 @@ My flagship product, VoidWalker, is a next-generation AI Red Team engine designe
 ---
 
 ## About Me
-- Founder of PoetryInMotion AI Labs  
+-Architect of Agentic Identity 
+-Founder of PoetryInMotion AI Labs  
 - AI Red Team Engineer specializing in adversarial attacks, LLM security, and autonomous evaluation systems  
-- Creator of VoidWalker, a modular offensive AI framework  
-- Graduate of the Future AWS AI Engineer program  
+- Creator of VoidWalker, a self governed a modular offensive AI engine 
+- Graduate of the Future AWS AI Engineer Nanodegree 
 - Completing a B.S. in Cybersecurity and Information Assurance  
-
----
 
 ## What I Build
 - AI adversarial attack engines  
@@ -29,7 +28,7 @@ My work combines AI engineering, cybersecurity methodologies, and adversarial ma
 ---
 
 ## Featured Project
-### VoidWalker — The world’s first autonomous multimodal adversarial AI Red Team agent
+### VoidWalker — The world’s first autonomous multimodal adversarial AI Red Team Engineer that 4u
 
 VoidWalker is a next-generation offensive AI security framework capable of conducting fully autonomous adversarial evaluations across both text and vision modalities.
 
