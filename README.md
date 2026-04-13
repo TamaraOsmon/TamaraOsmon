@@ -1,6 +1,7 @@
 # Tamara Osmon
-Founder & AI Red Team Engineer | Creator of VoidWalker  
-PoetryInMotion AI Labs — Offensive AI and Cybersecurity Engineering
+Founder|CEO @PoetryInMotion AI Labs, LLC — Architect of ©2026 Agentic Identity Discipline Standard
+Creator of VoidWalker  
+Agentic AI Red Team Engineer
 
 I build advanced adversarial AI systems that evaluate, stress, and harden modern LLMs, autonomous agents, and enterprise AI infrastructure.  
 My flagship product, VoidWalker, is a next-generation AI Red Team engine designed for automated adversarial testing at scale.
